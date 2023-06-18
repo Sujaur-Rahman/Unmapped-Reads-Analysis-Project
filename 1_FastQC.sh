@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ##Change to the working directory if you are working on Easley
-cd /hosted/cvmpt/archive/WGS_Human/z_ROUND_2_Mar2022_TL
+cd /hosted/cvmpt/archive/WGS_Human/
 
 #load FastQC on easley
 module load fastqc
